@@ -9,7 +9,7 @@ botocore==1.12.180
 certifi==2018.1.18
 chardet==3.0.4
 Click==7.0
-cloudpickle==1.1.1
+cloudpickle==1.2.2
 colorama==0.4.1
 config==0.4.2
 configobj==5.0.6
