@@ -30,6 +30,8 @@ parser.add_argument('--num_layers', default=6, type=int)
 
 args = parser.parse_args()
 
+print('Given args', args)
+
 
 # set arguments
 l_r = args.l_r
